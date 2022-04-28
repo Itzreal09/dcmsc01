@@ -1,7 +1,7 @@
 {
   "name": "dcmsc01",
   "main": "main.js",
-  "author": "Itzme",
+  "author": "*Itzme",
   "description": "Private!!!",
   "scripts": {
     "start": "node main.js"
